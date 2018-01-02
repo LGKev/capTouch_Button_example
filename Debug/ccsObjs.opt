@@ -1,0 +1,1 @@
+"./CTS_HAL.obj" "./CTS_Layer.obj" "./main.obj" "./startup_msp432p401r_ccs.obj" "./structure.obj" "./system_msp432p401r.obj" "../msp432p401r.cmd" -llibc.a 
